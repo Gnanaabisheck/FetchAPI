@@ -1,20 +1,19 @@
-import Anchor from './Anchor'
-import Footer from './Footer';
-import Practice from "./Practice";
-import Slider from './Slider';
-
-
+import Carrer from "./Carrer";
+import Todo from "./Todo";
 
 function App() {
   
+
+
+
+
+
   
 return(
   <div>
-    <Anchor/>
-    <Slider/>
-    <Practice/>
-    <hr />
-    <Footer/>
+
+   <Todo/>
+   
   </div>
     
 )
